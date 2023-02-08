@@ -1,6 +1,7 @@
 ## `Hello World!` Meu nome é Brendon Washington.
 
 - 🔭 <b>Desenvolvedor Front-End</b>
+- 📧 <b>How to reach me: brendonwashington.contato@gmail.com</b>
 - 🌱 2º Semestre em Análise e Desenvolvimento de Sistemas
   <div style="display: inline_block">
   <img align="center" alt="bnwasb-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
@@ -14,14 +15,11 @@
   
   ##
     
-  <div class="gmail" style="display:flex";>
-      <img align="center" style="width:80px; height:23px; display:inline-block;" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/> 
-      <span style="display:inline-block;">brendonwashington.contato@gmail.com</span>
-  <div>  
   <div class="linkedin" style="display:flex;">
-      <a target="_blank" href="http://www.linkedin.com/in/brendonwsa"><img align="center" style="width:80px; height:23px; display:inline-block;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <span style="display:inline-block;"><b>Clique e acesse meu</b></span>
+      <a target="_blank" href="http://www.linkedin.com/in/brendonwsa"><img align="center" style="display:inline-block; width:140px; height:30px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <div>
-    <a href="mailto:brendonwashington.contato@gmail.com"> <img style="width:80px; height:23px; display:inline-block;" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    
   
   
   
@@ -38,7 +36,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📧 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
