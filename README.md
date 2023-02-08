@@ -19,8 +19,9 @@
       <span style="display:inline-block;">brendonwashington.contato@gmail.com</span>
   <div>  
   <div class="linkedin" style="display:flex;">
-      <a href="www.linkedin.com/in/brendonwsa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a target="_blank" href="http://www.linkedin.com/in/brendonwsa"><img align="center" style="width:80px; height:23px; display:inline-block;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <div>
+    <a href="mailto:brendonwashington.contato@gmail.com"> <img style="width:80px; height:23px; display:inline-block;" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
   
   
