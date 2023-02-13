@@ -16,7 +16,7 @@
   ##
     
   <div class="linkedin" style="display:flex;">
-    <span style="display:inline-block;"><b>Clique e acesse meu</b></span>
+    <span style="display:inline-block;"></span>
       <a target="_blank" href="http://www.linkedin.com/in/brendonwsa"><img align="center" style="display:inline-block; width:140px; height:30px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <div>
     
