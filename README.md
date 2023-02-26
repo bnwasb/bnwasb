@@ -17,8 +17,8 @@
   <hr/>
   <div class="linkedin" style="display:flex;">
     <span style="display:block;"></span>
-      <a target="_blank" href="http://www.linkedin.com/in/brendonwsa"><img title="Meu Linkedin" align="center" style="display:inline-block; width:130px; height:30px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      <a target="_blank" href="https://brendon-dev.netlify.app/"><img title="Meu Portifólio" align="center" style="display:inline-block; width:140px; height:30px;" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
+      <a target="_blank" href="http://www.linkedin.com/in/brendonwsa"><img title="Meu Linkedin" align="center" style="display:inline-block; width:120px; height:30px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a target="_blank" href="https://brendon-dev.netlify.app/"><img title="Meu Portifólio" align="center" style="display:inline-block; width:120px; height:30px;" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
   <div>
     
     
