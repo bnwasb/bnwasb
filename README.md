@@ -12,13 +12,16 @@
   <img align="center" alt="bnwasb-JQ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"/>
   <img align="center" alt="bnwasb-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <div>
+  <br/>
   
-  ##
-    
+  <hr/>
   <div class="linkedin" style="display:flex;">
-    <span style="display:inline-block;"></span>
-      <a target="_blank" href="http://www.linkedin.com/in/brendonwsa"><img align="center" style="display:inline-block; width:140px; height:30px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <span style="display:block;"></span>
+      <a target="_blank" href="http://www.linkedin.com/in/brendonwsa"><img title="Meu Linkedin" align="center" style="display:inline-block; width:130px; height:30px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a target="_blank" href="https://brendon-dev.netlify.app/"><img title="Meu Portifólio" align="center" style="display:inline-block; width:140px; height:30px;" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
   <div>
+    
+    
     
   
   
